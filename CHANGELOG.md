@@ -4,20 +4,24 @@
 
 - Put your changes here...
 
+## Skipped versions
+
+- Any version release not specifically called out in this changelog is only a maintenance release to match the version with `generator-roosevelt` and to update other dependencies.
+
 ## 0.2.3
 
 - Dropped support for Node <16 and various other maintenance updates.
-- Various dependencies bumped.
+- Various dependencies updated.
 
 ## 0.2.2
 
 - Now always uses latest version of generator-roosevelt.
-- Various dependencies bumped.
+- Various dependencies updated.
 
 ## 0.2.1
 
 - Fixed npx issue.
-- Various dependencies bumped.
+- Various dependencies updated.
 
 ## 0.2.0
 
